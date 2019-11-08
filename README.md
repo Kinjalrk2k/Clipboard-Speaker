@@ -1,7 +1,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 # Clipboard-Speaker
-Speaks what's on your clipboard. Copy a text, wait for the machine to undersatnd it, and listen closely! It's that easy. However, not terminate the program. Minimize it, let it run over your taskbar.
+Speaks what's on your clipboard. Copy a text, wait for the machine to understand it, and listen closely! It's that easy. However, don't terminate the program. Minimize it, let it run over your taskbar.
 
 Not sure whether it's useful for visually impaireds, but would love to modify to suffice their needs anytime. 
 
